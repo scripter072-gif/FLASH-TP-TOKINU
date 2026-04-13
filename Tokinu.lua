@@ -1,1 +1,1 @@
-game.Players.LocalPlayer:Kick("تم تقفيل السكربت")
+game.Players.LocalPlayer:Kick(" تم قفل السكربت مدفوع الرجاء توجه الى ديسكورد")
