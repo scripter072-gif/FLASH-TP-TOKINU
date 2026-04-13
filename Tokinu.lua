@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Tokinu/Flash-Tp/refs/heads/main/Whitelist"))()
+game.Players.LocalPlayer:Kick("تم تقفيل السكربت")
